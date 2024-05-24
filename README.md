@@ -33,3 +33,10 @@ Module 12 Advanced Programming 2023/2024
    - Penyebaran data sensitif meningkatkan risiko kebocoran data.
 3. **Mitigasi**
    - Implementasi enkripsi data, otentikasi dua faktor, dan audit keamanan secara berkala.
+
+## Deliverable Individual
+**Fitur Admin** <br>
+Container Diagram <br>
+![Container Diagram](img/image.png)
+Code Diagram <br>
+![Code Diagram](img/admin.png)
