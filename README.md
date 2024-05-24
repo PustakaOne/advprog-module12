@@ -13,5 +13,6 @@ Module 12 Advanced Programming 2023/2024
 ![Deployment Diagram](img/deployment.jpg)
 
 ## Deliverable G.2
+![Future Container Diagram](img/future-container.jpg)
 
-## Deliverable 6.3
+## Deliverable G.3
