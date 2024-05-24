@@ -40,3 +40,6 @@ Container Diagram <br>
 ![Container Diagram](img/image.png)
 Code Diagram <br>
 ![Code Diagram](img/admin.png)
+Code Diagram Bookshop <br>
+![Code Diagram](img/Code%20Diagram.jpg)
+![](img/UML%20DIagram%20Bookshop.png)
